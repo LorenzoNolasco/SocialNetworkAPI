@@ -15,8 +15,12 @@ Once the application has been installed locally, run `node server.js` to start t
 
 ## Video
 
-Please see the link below for a video demonstrating the functionality of the routes in Insomnia: 
+Please see the link below for a video demonstrating the functionality of the routes in Insomnia:
 
+[Users routes](https://drive.google.com/file/d/1MZUnR8SYOeRdUbqAuX_vGy8jq399VwIG/view?usp=sharing)
 
+[Friends routes](https://drive.google.com/file/d/1-V247HEHok_rDaUc7v_cc2_asyIZwwEI/view?usp=sharing)
 
-# SocialNetworkAPI
+[Thoughts routes](https://drive.google.com/file/d/1DaLBoSjFvvL9kFoIXggcIRRjjPfp00Nd/view?usp=sharing)
+
+[Reactions routes](https://drive.google.com/file/d/1eR2wJkDx1bFLBl8l-XIMVbIvA5OuCQ6H/view?usp=sharing)
